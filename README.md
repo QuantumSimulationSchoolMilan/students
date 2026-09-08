@@ -1,12 +1,15 @@
 # School on Quantum Simulation, Milan 9-11 September 2026
 
+[Website](https://rpmbt23.mi.infn.it/?page_id=817)
+
 ## Slides directory
 
-* slides of the course
+* slides of the course and pre-reading material
 
 ## Notebooks directory
 
-* hello_world_lagrange_IBM.ipynb (and corresponding py file): introduction to login on both Lagrange and IBM quantum platform. Backend construction in both cases and execution of a simple circuit.
+* hello_world_lagrange_IBM.ipynb: introduction to login on both Lagrange and IBM quantum platform. Backend construction in both cases and execution of a simple circuit.
+* preparatory/*: exercises to be completed before the school
 
 ### Jupyter lab
 
